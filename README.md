@@ -1,0 +1,1 @@
+This program writes a code which block certain list of websites in your computer during defined working hours
